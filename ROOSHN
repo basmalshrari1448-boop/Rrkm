@@ -1,6 +1,8 @@
-#EXTM3U
-#EXTINF:-1, Thamanya | ثمانية
-https://shls-thmanyatv-prod-dub.shofree.com/out/v1/fdf7406f7df24810931215f79599547b/index.m3u8
-
 #EXTINF:-1, beIN SPORTS News | الإخبارية
 https://beinsports.akamaized.net/ps/beINSportsNews/index.m3u8
+
+#EXTINF:-1, KSA Sports 1 | السعودية الرياضية 1
+https://riyadh-live.ercdn.net/ksasport1/ksasport1.m3u8
+
+#EXTINF:-1, Thamanya | ثمانية
+https://shls-thmanyatv-prod-dub.shofree.com/out/v1/fdf7406f7df24810931215f79599547b/index.m3u8
